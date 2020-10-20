@@ -1,0 +1,11 @@
+/Users/owner1/Documents/docs/careerdevs/20-10oct/CarObjects/CarObjects/obj/Debug/netcoreapp2.2/CarObjects.csprojAssemblyReference.cache
+/Users/owner1/Documents/docs/careerdevs/20-10oct/CarObjects/CarObjects/obj/Debug/netcoreapp2.2/CarObjects.csproj.CoreCompileInputs.cache
+/Users/owner1/Documents/docs/careerdevs/20-10oct/CarObjects/CarObjects/obj/Debug/netcoreapp2.2/CarObjects.AssemblyInfoInputs.cache
+/Users/owner1/Documents/docs/careerdevs/20-10oct/CarObjects/CarObjects/obj/Debug/netcoreapp2.2/CarObjects.AssemblyInfo.cs
+/Users/owner1/Documents/docs/careerdevs/20-10oct/CarObjects/CarObjects/bin/Debug/netcoreapp2.2/CarObjects.deps.json
+/Users/owner1/Documents/docs/careerdevs/20-10oct/CarObjects/CarObjects/bin/Debug/netcoreapp2.2/CarObjects.runtimeconfig.json
+/Users/owner1/Documents/docs/careerdevs/20-10oct/CarObjects/CarObjects/bin/Debug/netcoreapp2.2/CarObjects.runtimeconfig.dev.json
+/Users/owner1/Documents/docs/careerdevs/20-10oct/CarObjects/CarObjects/bin/Debug/netcoreapp2.2/CarObjects.dll
+/Users/owner1/Documents/docs/careerdevs/20-10oct/CarObjects/CarObjects/bin/Debug/netcoreapp2.2/CarObjects.pdb
+/Users/owner1/Documents/docs/careerdevs/20-10oct/CarObjects/CarObjects/obj/Debug/netcoreapp2.2/CarObjects.dll
+/Users/owner1/Documents/docs/careerdevs/20-10oct/CarObjects/CarObjects/obj/Debug/netcoreapp2.2/CarObjects.pdb
